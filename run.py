@@ -8,4 +8,4 @@ number = input()
 
 data = osint.get_data(number)
 
-print(data)￼Enter
+print(data)￼
