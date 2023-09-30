@@ -1,6 +1,6 @@
 # Osint-Tested
 Osint Number Scanner (TESTED)
-<img src="https://g.top4top.io/p_2829e0c7r0.jpg">
+<img src="https://g.top4top.io/p_2829e0c7r0.jpg" alt="example">
 
 # Main
 <b>[?] Installing & Run</b><br>
